@@ -13,13 +13,6 @@ Final-year Electrical Engineering student with experience in embedded systems, c
 - **Control & Automation:** PID control, PLCs, TIA Portal, system modelling
 - **Engineering Tools:** LTspice, PSIM, FEKO/FEM, SolidWorks
 
-## Featured projects
-### Electric Bicycle Conversion
-Design and implementation of a pedal-assist electric bicycle conversion system, including motor design considerations, drive electronics, sensing, and embedded control.
-
-### Wind Tunnel PLC Control System
-Development of a PLC-based control and monitoring system using Siemens TIA Portal, with modelling and controller optimisation for improved system response.
-
 ## What I'm working on
 - Improving my Python and analytics portfolio
 - Building stronger software and data-focused project work
