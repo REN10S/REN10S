@@ -1,16 +1,26 @@
-## Hi there 👋
+Final-year Electrical Engineering student with experience in embedded systems, control, power electronics, and technical problem solving. I am particularly interested in Python, data analysis, automation, and building practical systems that combine hardware and software.
 
-<!--
-**REN10S/REN10S** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About me
+- Final-year BEng Electrical Engineering student at the University of Pretoria
+- Interested in analytics, technology graduate roles, and software-adjacent problem solving
+- Experience with embedded control, system modelling, PLCs, and engineering design
+- Currently building projects in Python, control systems, and embedded applications
 
-Here are some ideas to get you started:
+## Technical skills
+- **Programming:** Python, MATLAB, C/C++, Assembly
+- **Data & Analysis:** Pandas, NumPy, data cleaning, exploratory data analysis
+- **Embedded Systems:** ESP32, STM32, Arduino, PIC
+- **Control & Automation:** PID control, PLCs, TIA Portal, system modelling
+- **Engineering Tools:** LTspice, PSIM, FEKO/FEM, SolidWorks
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Featured projects
+### Electric Bicycle Conversion
+Design and implementation of a pedal-assist electric bicycle conversion system, including motor design considerations, drive electronics, sensing, and embedded control.
+
+### Wind Tunnel PLC Control System
+Development of a PLC-based control and monitoring system using Siemens TIA Portal, with modelling and controller optimisation for improved system response.
+
+## What I'm working on
+- Improving my Python and analytics portfolio
+- Building stronger software and data-focused project work
+- Applying engineering problem-solving to analytical and technical roles
