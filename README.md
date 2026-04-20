@@ -5,6 +5,7 @@ Final-year Electrical Engineering student with experience in embedded systems, c
 - Interested in analytics, technology graduate roles, and software-adjacent problem solving
 - Experience with embedded control, system modelling, PLCs, and engineering design
 - Currently building projects in Python, control systems, and embedded applications
+- Projects have a focus or application in finacne, sports and bio-hacking
 
 ## Technical skills
 - **Programming:** Python, MATLAB, C/C++, Assembly
